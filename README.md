@@ -5,8 +5,8 @@ Here we use statbombpy library to access free data by [StatsBomb](https://statsb
 
 #### Passmap of Messi vs Sevilla on 23 Feb, 2013
     
-    ![passmap](https://github.com/yashps7/heatmap/blob/main/passmap.png)
+![passmap](https://github.com/yashps7/heatmap/blob/main/passmap.png)
 
 #### Heatmap of Messi vs Sevilla on 23 Feb, 2013
 
-    ![heatmap](https://github.com/yashps7/heatmap/blob/main/heatmap.png)
+![heatmap](https://github.com/yashps7/heatmap/blob/main/heatmap.png)
