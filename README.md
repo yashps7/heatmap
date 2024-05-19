@@ -11,5 +11,5 @@ Here we use statbombpy library to access free data by [StatsBomb](https://statsb
 
 ![heatmap](https://github.com/yashps7/heatmap/blob/main/heatmap.png)
 
-##### For Similar plots
-[More](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
+##### For More Similar plots
+[link](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
