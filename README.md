@@ -10,3 +10,6 @@ Here we use statbombpy library to access free data by [StatsBomb](https://statsb
 #### Heatmap of Messi vs Sevilla on 23 Feb, 2013
 
 ![heatmap](https://github.com/yashps7/heatmap/blob/main/heatmap.png)
+
+##### For Similar plots
+[More](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
